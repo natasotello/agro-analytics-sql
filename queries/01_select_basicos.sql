@@ -1,0 +1,1 @@
+-- Consultas básicas utilizando SELECT, WHERE e ORDER BY
