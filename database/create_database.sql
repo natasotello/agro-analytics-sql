@@ -1,1 +1,5 @@
--- Script de criação do banco de dados
+CREATE DATABASE AgroAnalyticsDB;
+GO
+
+USE AgroAnalyticsDB;
+GO
