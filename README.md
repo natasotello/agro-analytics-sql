@@ -149,3 +149,17 @@ As análises permitem identificar:
 Este projeto faz parte do meu portfólio na área de Dados e foi desenvolvido com o objetivo de consolidar conhecimentos em SQL, modelagem de dados e análise de indicadores aplicados ao agronegócio.
 
 Estou em constante aprendizado e buscando evoluir para atuar profissionalmente com Análise de Dados e Ciência de Dados.
+
+## 🚀 Próximos Passos
+
+Este projeto continuará sendo expandido conforme avanço nos estudos em Dados. Algumas melhorias planejadas são:
+
+* Desenvolver dashboards interativos em Power BI para visualização dos indicadores agrícolas.
+* Criar análises exploratórias em Python utilizando Pandas e Matplotlib.
+* Automatizar processos de tratamento e transformação dos dados.
+* Implementar consultas mais avançadas e novas métricas de negócio.
+* Expandir o banco de dados com novos cenários relacionados ao agronegócio.
+* Adicionar diagramas e documentações complementares.
+* Aplicar conceitos de Engenharia de Dados e ETL em versões futuras do projeto.
+
+> Este projeto faz parte da minha evolução na área de Dados e continuará sendo aprimorado à medida que desenvolvo novos conhecimentos e habilidades.
